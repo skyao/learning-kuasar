@@ -84,7 +84,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "skyao.io"
+copyright = "skyao.net"
 privacy_policy = ""
 
 # First one is picked as the Twitter card image if not set on page.

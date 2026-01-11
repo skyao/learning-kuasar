@@ -9,6 +9,8 @@ description: >
 
 https://kuasar.io/docs/background/sandbox-rise/
 
+---
+
 大约在 2018 年，各种云原生容器隔离技术逐渐出现。我们将这项技术称为“沙盒”。
 
 而沙盒是一个自然的 POD 模型。它为一组容器提供了一个隔离环境。存在一些典型的沙盒：microVM 沙盒、application-kernel沙盒和 WASM 沙盒。

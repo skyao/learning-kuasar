@@ -7,13 +7,13 @@ description: >
   Kuasar介绍
 ---
 
+https://github.com/skyao/kuasar
+
+---
+
 ## 介绍
 
-Kuasar is an efficient container runtime that provides cloud-native, all-scenario container solutions by supporting multiple sandbox techniques. Written in Rust, it offers a standard sandbox abstraction based on the sandbox API. Additionally, Kuasar provides an optimized framework to accelerate container startup and reduce unnecessary overheads.
-
 Kuasar 是一款高效的容器运行时，通过支持多种沙箱技术提供云原生全场景容器解决方案。它采用 Rust 语言编写，基于沙箱 API 提供标准沙箱抽象层。此外，Kuasar 还提供优化框架以加速容器启动并减少不必要的开销。
-
-In the current state of development, no single underlying container technology can support all cloud-native scenario requirements well. Our goal is to provide a better way to manage and balance enterprises’ requirements for container isolation, security, general, speed, and resource consumption.
 
 在当前发展阶段，没有任何单一的基础容器技术能够完美支持所有云原生场景的需求。我们的目标是提供更优的解决方案，以管理和平衡企业对容器隔离性、安全性、通用性、运行速度及资源消耗等方面的需求。
 
